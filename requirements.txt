@@ -1,0 +1,5 @@
+aiogram==3.12.0
+colorama==0.4.6
+outline_vpn_api==6.3.0
+python-decouple==3.8
+Requests==2.32.3
